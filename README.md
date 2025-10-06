@@ -46,7 +46,7 @@ online library</br>
 
 ### 📫 Reach me at 
 <span>
-<a href="https://www.linkedin.com/in/pasemedo/" target="_blank" ><img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/></a>
+<a href="https://www.linkedin.com/in/pasemedo/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/></a>
 </span>
 
 </div>

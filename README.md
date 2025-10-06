@@ -7,7 +7,7 @@
 <div align="center">
 
 # 👋 I'm Pedro  
-<h3> 🔧 Full-stack Developer </h3>
+<h3> 🛠️ Full-stack Developer </h3>
 
 </div></br>
 

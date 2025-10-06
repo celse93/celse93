@@ -42,7 +42,7 @@
 online library</br>
 [Visit Círculo Lectores](https://react-frontend-ijog.onrender.com/login)
 
-<img src="https://i.imgur.com/iuG50QT.mp4" alt="GIF" width="450"/>
+<video src="https://i.imgur.com/iuG50QT.mp4" alt="GIF" width="250" loop autoplay muted />
 
 
 

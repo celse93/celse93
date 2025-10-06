@@ -9,7 +9,7 @@
 # 👋 I'm Pedro  
 <h3> 🔧 Full-stack Developer </h3>
 
-</div>
+</div></br>
 
 <h2 align="center">Main Skill Set</h2>
 
@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="75">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="70">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="75"></br>
+</br>
 
 ## Other Technologies
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -29,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+</div></br>
 
 <div align="center">
     

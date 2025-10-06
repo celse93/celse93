@@ -42,7 +42,7 @@
 online library</br>
 [Visit Círculo Lectores](https://react-frontend-ijog.onrender.com/login)
 
-<img src="https://i.imgur.com/ogQcexn.gif" alt="GIF" width="250"/>
+<img src="https://imgur.com/a/circulo-lectores-JTFephO" alt="GIF" width="250"/>
 
 
 

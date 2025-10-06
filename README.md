@@ -40,14 +40,7 @@
 online library</br>
 [Visit Círculo Lectores](https://react-frontend-ijog.onrender.com/login)
 
-<img src="Circulo Lectores.gif" alt="GIF" width="250" />
-
-
-
-### Wisdom
-personal mobile app to read quotes daily </br>
-
-<img src="https://i.imgur.com/lbNc7Ek.png" alt="GIF" width="250"/>
+<img src="Circulo Lectores.gif" alt="GIF" width="300" height="250" />
 
 ---
 

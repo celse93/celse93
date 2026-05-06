@@ -47,11 +47,4 @@ online library</br>
 
 <img src="Wisdom.gif" alt="GIF" width="300" height="250" />
 
----
 
-### 📫 Reach me at 
-<span>
-<a href="https://www.linkedin.com/in/pasemedo/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/></a>
-</span>
-
-</div>

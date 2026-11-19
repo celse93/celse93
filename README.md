@@ -42,8 +42,6 @@
 ## Projects
 
 ### [Wisdom](https://wisdombooks.onrender.com/)
-online library</br>
-[Visit Wisdom](https://wisdombooks.onrender.com/)
 
 <img src="Wisdom.gif" alt="GIF" width="300" height="250" />
 
